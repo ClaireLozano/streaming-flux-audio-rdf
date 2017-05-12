@@ -8,7 +8,7 @@ from rdflib import Namespace
 
 class Services:
     def __init__(self):
-        self.PATH = "/Users/thomas/Documents/Master/Digital Content Broadcasting/untitled/FichiersMusicaux/"
+        self.PATH = os.path.dirname(os.path.realpath(__file__)) + "/FichiersMusicaux/"
         self.EXTENSION = ".wav"
         self.name_space_artist = Namespace("http://ns.adobe.com/xmp/1.0/DynamicMedia/")
         self.g = rdflib.Graph()
