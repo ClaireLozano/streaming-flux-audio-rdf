@@ -44,4 +44,6 @@ def import_graph(rdf):
 
 
 list_all_files()
-print g.serialize(format='pretty-xml')
+#print g.serialize(format='pretty-xml')
+
+print g.serialize(format='turtle')
