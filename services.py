@@ -62,3 +62,9 @@ class Services:
                 dico[self.simplify_name_title(str(c))] = [];
             dico[self.simplify_name_title(str(c))].append([str(b), self.simplify(str(d))])
         return dico
+
+    def request_genre_sparql(self):
+        q = prepareQuery(
+            'SELECT DISTINCT ?y WHERE { ?x xmpDM:genre ?y . }',
+            initNs={"xmpDM": self.name_space_artist})
+        return self.g.query(q)

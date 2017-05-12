@@ -12,7 +12,7 @@ service = Services()
 # Form Search
 @app.route('/')
 def form():
-    return render_template('form_submit.html')
+    return render_template('form_submit.html', genres=service.request_genre_sparql())
 
 
 # Result List
