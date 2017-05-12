@@ -48,18 +48,20 @@ class Services:
         return text.split("/")[-1]
 
     def simplify_name_title(self, text):
-        return (text.split("/")[-1]).split("_", 1)[0];
+        return (text.split("/")[-1]).split("_", 1)[0]
 
     def request_sparql(self, auteur, genre):
         q = prepareQuery(
-            'SELECT * WHERE { ?s xmpDM:artist "' + auteur + '" . ?s xmpDM:genre "' + genre + '". ?s ?predicate ?object . }',
+            'SELECT DISTINCT * WHERE { ?s xmpDM:artist "' + auteur + '" . ?s xmpDM:genre "' + genre + '". ?s ?predicate ?object . }',
             initNs={"xmpDM": self.name_space_artist})
-        # Show result
         dico = {}
         for b, c, d in self.g.query(q):
-            print b, c, d
+            # Show result
+            #print b, c, d
+            # Initialisation d'un tableau contenant les informations d'un nouveau titre de musique
             if dico.get(self.simplify_name_title(str(c))) == None:
-                dico[self.simplify_name_title(str(c))] = [];
+                dico[self.simplify_name_title(str(c))] = []
+            # Ajout d'information sur lte titre de musique
             dico[self.simplify_name_title(str(c))].append([str(b), self.simplify(str(d))])
         return dico
 
@@ -67,4 +69,7 @@ class Services:
         q = prepareQuery(
             'SELECT DISTINCT ?y WHERE { ?x xmpDM:genre ?y . }',
             initNs={"xmpDM": self.name_space_artist})
-        return self.g.query(q)
+        dico = []
+        for b in self.g.query(q):
+            dico.append(str(b).split("'")[1])
+        return dico

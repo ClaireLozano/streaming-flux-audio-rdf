@@ -10,14 +10,16 @@
             </div>
             <div id="content">
                 <form method="post" action="{{ url_for('result') }}">
-                  <label for="yourname">Auteur</label>
-                  <input type="text" value="Hicham Chahidi" name="author" /><br />
-                  <label for="youremail">Genre</label>
-                    <select name="genre" size="1">
+                  <label for="author">Auteur</label>
+                  <input type="text" value="Hicham Chahidi" name="author"/><br />
+
+                  <label for="genre">Genre</label>
+                    <select name="genre">
                         {% for genre in genres %}
-                            <option>{{ genre }}</option>
-                    </select>
-                  <input type="text" value="Ethnique" name="genre" /><br />
+                            <option value="{{ genre }}">{{ genre }}</option>
+                        {% endfor %}
+                    </select><br /><br />
+
                   <input type="submit" />
                 </form>
             </div>
