@@ -1,10 +1,7 @@
 import os
 import tempfile
-from tempfile import NamedTemporaryFile
-
 import libxmp
 import rdflib
-from rdflib.namespace import FOAF
 from rdflib.plugins.sparql import prepareQuery
 from rdflib import Namespace
 
@@ -48,14 +45,9 @@ def import_graph(rdf):
 
 
 def request_sparql(auteur, genre):
+    list_all_files()
     q = prepareQuery('SELECT * WHERE { ?s xmpDM:artist "' + auteur + '" . ?s xmpDM:genre "' + genre + '". ?s ?predicate ?object . }', initNs={"xmpDM": name_space_artist})
-    for row in g.query(q):
-        print row
-
-
-list_all_files()
-
-# format : pretty-xml / turtle / nt / ...
-print g.serialize(format='turtle')
-
-request_sparql("Hicham Chahidi", "Ethnique")
+    #Show result
+    #for row in g.query(q):
+    #    print row
+    return g.query(q)

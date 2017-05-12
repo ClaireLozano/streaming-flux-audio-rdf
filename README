@@ -11,3 +11,11 @@ brew install exempi
 brew install libxmp
 sudo pip install python-xmp-toolkit
 sudo pip install rdflib
+
+
+
+----
+MEMO
+
+# format : pretty-xml / turtle / nt / ...
+#print g.serialize(format='turtle')
