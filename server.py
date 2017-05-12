@@ -6,6 +6,8 @@ from services import Services
 
 app = Flask(__name__)
 
+# Initialisation du graphe et peuplement
+service = Services()
 
 # Form Search
 @app.route('/')
@@ -18,7 +20,6 @@ def form():
 def result():
     author = request.form['author']
     genre = request.form['genre']
-    service = Services()
     results = service.request_sparql(author, genre)
     return render_template('form_action.html', author=author, genre=genre, results=results)
 

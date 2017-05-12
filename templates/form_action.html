@@ -6,13 +6,17 @@
     <body>
         <div id="container">
             <div class="title">
-                <h1>Réponse</h1>
+                <h1>Auteur <strong>{{author}}</strong> - Genre <strong>{{genre}}</strong></h1>
             </div>
             <div id="content">
-                Auteur <strong>{{author}}</strong>
-                Genre <strong>{{genre}}</strong>
                 <br>
-                {{ results }}
+                {% for titre in results %}
+                    <h2>{{ titre }}</h2>
+                    {% for element in results[titre] %}
+                        <p>{{ element[1] }}: {{ element[0] }}</p>
+                    {% endfor %}
+                    <hr>
+                {% endfor %}
             </div>
         </div>
     </body>
