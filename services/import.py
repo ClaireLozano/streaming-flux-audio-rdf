@@ -4,10 +4,14 @@ from tempfile import NamedTemporaryFile
 
 import libxmp
 import rdflib
+from rdflib.namespace import FOAF
+from rdflib.plugins.sparql import prepareQuery
+from rdflib import Namespace
 
 PATH = "../FichiersMusicaux/"
 EXTENSION = ".wav"
 g = rdflib.Graph()
+name_space_artist = Namespace("http://ns.adobe.com/xmp/1.0/DynamicMedia/")
 
 
 def read_xmp_metadata(file):
@@ -43,7 +47,15 @@ def import_graph(rdf):
     temp.close()
 
 
-list_all_files()
-#print g.serialize(format='pretty-xml')
+def request_sparql(auteur, genre):
+    q = prepareQuery('SELECT * WHERE { ?s xmpDM:artist "' + auteur + '" . ?s xmpDM:genre "' + genre + '". ?s ?predicate ?object . }', initNs={"xmpDM": name_space_artist})
+    for row in g.query(q):
+        print row
 
+
+list_all_files()
+
+# format : pretty-xml / turtle / nt / ...
 print g.serialize(format='turtle')
+
+request_sparql("Hicham Chahidi", "Ethnique")
