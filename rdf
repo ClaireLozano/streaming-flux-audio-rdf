@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+  xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/"
+  xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+  xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+>
+  <rdf:Description rdf:about="file:///var/folders/gc/m1_d1wrj5pd2tkwsjzx4d0cc0000gn/T/tmpo3IsmX">
+    <xmpMM:InstanceID>xmp.iid:2f37cd08-431f-49fe-b9b8-e63c25c9a1fb</xmpMM:InstanceID>
+    <dc:description>
+      <rdf:Alt rdf:nodeID="N29dae954484343a49519c487e9edd496">
+        <rdf:_1 xml:lang="x-default">Musique libre droit électro. Avec sons synthétiques, boites à rythmes...</rdf:_1>
+      </rdf:Alt>
+    </dc:description>
+    <xmpDM:composer>Hicham Chahidi</xmpDM:composer>
+    <dc:subject>
+      <rdf:Bag rdf:nodeID="Nc9cb8f1d35ba4d77a2476814e4a5d5a6">
+        <rdf:_2>electro</rdf:_2>
+        <rdf:_3>techno</rdf:_3>
+        <rdf:_1>house</rdf:_1>
+      </rdf:Bag>
+    </dc:subject>
+    <xmp:MetadataDate>2017-02-20T17:12:38+01:00</xmp:MetadataDate>
+    <dc:title>
+      <rdf:Alt rdf:nodeID="Nca5c6135e4424574b38d0240d638c59e">
+        <rdf:_1 xml:lang="x-default">Babydoll</rdf:_1>
+      </rdf:Alt>
+    </dc:title>
+    <xmpDM:artist>Hicham Chahidi</xmpDM:artist>
+    <dc:rights>
+      <rdf:Alt rdf:nodeID="N6ee7930bb8da449d8cbc5c44e803d060">
+        <rdf:_1 xml:lang="x-default">Les musiques téléchargeables sur le site www.musicscreen.be sont soumises à la loi sur le droit d'auteur. Elles sont la propriété du compositeur / producteur Hicham Chahidi, et leur utilisation doit faire l'objet d'un contrat de licence avant toute diffusion. Tous les droits sont réservés. Sauf autorisation, toute utilisation des Oeuvres autre que la consultation privée est interdite. L'achat d'une licence d'utilisation vous garantie les droits nécéssaires à l'exploitation des musiques dans le cadre de votre projet.</rdf:_1>
+      </rdf:Alt>
+    </dc:rights>
+    <xmp:Rating>2</xmp:Rating>
+    <dc:creator>
+      <rdf:Seq rdf:nodeID="Nb1178be2780a4b129dc1215b349cdd50">
+        <rdf:_1>Hicham Chahidi</rdf:_1>
+      </rdf:Seq>
+    </dc:creator>
+    <xmpMM:History>
+      <rdf:Seq rdf:nodeID="N09500095d9a94e488288de197f308f61">
+        <rdf:_2>
+          <rdf:Description rdf:nodeID="N2a2ead874728401bb00b28738de62b80">
+            <stEvt:softwareAgent>Adobe Bridge CC (Macintosh)</stEvt:softwareAgent>
+            <stEvt:instanceID>xmp.iid:2f37cd08-431f-49fe-b9b8-e63c25c9a1fb</stEvt:instanceID>
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:when>2017-02-20T17:12:38+01:00</stEvt:when>
+            <stEvt:changed>/metadata</stEvt:changed>
+          </rdf:Description>
+        </rdf:_2>
+        <rdf:_1>
+          <rdf:Description rdf:nodeID="N825413a5c1464760a9dcd01b82ae37d7">
+            <stEvt:softwareAgent>Adobe Bridge CC 2017 (Windows)</stEvt:softwareAgent>
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:when>2017-02-20T12:21:12+01:00</stEvt:when>
+            <stEvt:changed>/metadata</stEvt:changed>
+            <stEvt:instanceID>xmp.iid:aff4e940-37a1-3641-81a2-83dc9feaf12c</stEvt:instanceID>
+          </rdf:Description>
+        </rdf:_1>
+      </rdf:Seq>
+    </xmpMM:History>
+    <xmpMM:OriginalDocumentID>xmp.did:aff4e940-37a1-3641-81a2-83dc9feaf12c</xmpMM:OriginalDocumentID>
+    <xmpMM:DocumentID>xmp.did:aff4e940-37a1-3641-81a2-83dc9feaf12c</xmpMM:DocumentID>
+    <xmpDM:genre>Electro</xmpDM:genre>
+    <xmp:CreatorTool>Lavf57.41.100</xmp:CreatorTool>
+    <xmpRights:Marked>False</xmpRights:Marked>
+    <xmpRights:WebStatement>http://www.musicscreen.be/musique-libre-de-droit-conditions-utilisation.html</xmpRights:WebStatement>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///var/folders/gc/m1_d1wrj5pd2tkwsjzx4d0cc0000gn/T/tmpdG56yU">
+    <xmpDM:composer>Hicham Chahidi</xmpDM:composer>
+    <xmpDM:instrument>bruitages, synthèse sonore, effets</xmpDM:instrument>
+    <xmp:CreatorTool>Lavf57.41.100</xmp:CreatorTool>
+    <xmpMM:OriginalDocumentID>xmp.did:1a6006aa-1873-484f-bb4a-49e2cb50ffe5</xmpMM:OriginalDocumentID>
+    <xmp:Rating>4</xmp:Rating>
+    <xmpRights:Marked>False</xmpRights:Marked>
+    <xmpMM:History>
+      <rdf:Seq rdf:nodeID="N103c3122464e4966a76faf580bd14294">
+        <rdf:_1>
+          <rdf:Description rdf:nodeID="N95ba7c3eff8e4a1d8f0732966b3c0cbd">
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:changed>/metadata</stEvt:changed>
+            <stEvt:when>2017-02-20T12:29:14+01:00</stEvt:when>
+            <stEvt:instanceID>xmp.iid:1a6006aa-1873-484f-bb4a-49e2cb50ffe5</stEvt:instanceID>
+            <stEvt:softwareAgent>Adobe Bridge CC 2017 (Windows)</stEvt:softwareAgent>
+          </rdf:Description>
+        </rdf:_1>
+        <rdf:_2>
+          <rdf:Description rdf:nodeID="Ncedc88b412b2469c85f64d7128778cef">
+            <stEvt:softwareAgent>Adobe Bridge CC 2017 (Windows)</stEvt:softwareAgent>
+            <stEvt:instanceID>xmp.iid:676a895b-5259-8840-ab37-2303c2dfae2d</stEvt:instanceID>
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:when>2017-02-20T12:44:22+01:00</stEvt:when>
+            <stEvt:changed>/metadata</stEvt:changed>
+          </rdf:Description>
+        </rdf:_2>
+      </rdf:Seq>
+    </xmpMM:History>
+    <xmpDM:genre>Ambiances</xmpDM:genre>
+    <dc:creator>
+      <rdf:Seq rdf:nodeID="Nc2a58d78c8fd484b9201450047c9b9ff">
+        <rdf:_1>Hicham Chahidi</rdf:_1>
+      </rdf:Seq>
+    </dc:creator>
+    <dc:subject>
+      <rdf:Bag rdf:nodeID="N33542126a50b4b49a0c8169c2d5658b3">
+        <rdf:_6>sound design</rdf:_6>
+        <rdf:_1>rêve</rdf:_1>
+        <rdf:_2>science fiction</rdf:_2>
+        <rdf:_5>espace</rdf:_5>
+        <rdf:_4>aquatique</rdf:_4>
+        <rdf:_3>mystère</rdf:_3>
+      </rdf:Bag>
+    </dc:subject>
+    <xmpMM:InstanceID>xmp.iid:676a895b-5259-8840-ab37-2303c2dfae2d</xmpMM:InstanceID>
+    <xmpMM:DocumentID>xmp.did:1a6006aa-1873-484f-bb4a-49e2cb50ffe5</xmpMM:DocumentID>
+    <dc:description>
+      <rdf:Alt rdf:nodeID="N71e236eaa203436a8374668b4d1b6fbe">
+        <rdf:_1 xml:lang="x-default">Musique d'ambiance utilisant des bruitages naturels traités avec des filtres et des effets audio. Des oscillateurs et des générateurs d'harmoniques sont utilisés pour créer une ambiance homogène qui se rapproche du bruit Blanc. Le réalisateur peux mixer plusieurs piste de cette musique pour avoir la durée désirée. Cette musique pourra très bien être utilisée comme ambiance sonore de pièce d'exposition, ou comme musique de fond d'une application multimédia.
+</rdf:_1>
+      </rdf:Alt>
+    </dc:description>
+    <xmp:MetadataDate>2017-02-20T12:44:22+01:00</xmp:MetadataDate>
+    <dc:title>
+      <rdf:Alt rdf:nodeID="Nf7b8c14ca52849bea3b0bfe991fad923">
+        <rdf:_1 xml:lang="x-default">Beta</rdf:_1>
+      </rdf:Alt>
+    </dc:title>
+    <xmpDM:artist>Hicham Chahidi</xmpDM:artist>
+    <xmpRights:WebStatement>http://www.musicscreen.be/musique-libre-de-droit-conditions-utilisation.html</xmpRights:WebStatement>
+    <xmpDM:logComment>Modifications possibles: Création de loops. réarrangement, Changement de la durée. Modification du tempo (Les modifications sont des services payants, demandez un devis)
+</xmpDM:logComment>
+    <dc:rights>
+      <rdf:Alt rdf:nodeID="Ne82bc040fdf34d11a6682d863c59c6b5">
+        <rdf:_1 xml:lang="x-default">Les musiques téléchargeables sur le site www.musicscreen.be sont soumises à la loi sur le droit d'auteur. Elles sont la propriété du compositeur / producteur Hicham Chahidi, et leur utilisation doit faire l'objet d'un contrat de licence avant toute diffusion. Tous les droits sont réservés. Sauf autorisation, toute utilisation des Oeuvres autre que la consultation privée est interdite. L'achat d'une licence d'utilisation vous garantie les droits nécéssaires à l'exploitation des musiques dans le cadre de votre projet.</rdf:_1>
+      </rdf:Alt>
+    </dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///var/folders/gc/m1_d1wrj5pd2tkwsjzx4d0cc0000gn/T/tmpVcW3CV">
+    <xmp:Rating>1</xmp:Rating>
+    <dc:description>
+      <rdf:Alt rdf:nodeID="Nd046900061074697bc51606cb750e7ca">
+        <rdf:_1 xml:lang="x-default">Musique libre de droit ethnique, avec des influences celtiques, africaines et Jazz</rdf:_1>
+      </rdf:Alt>
+    </dc:description>
+    <xmpMM:DocumentID>xmp.did:52c9d703-6766-ff40-8582-36d9f35b6a0d</xmpMM:DocumentID>
+    <xmpRights:WebStatement>http://www.musicscreen.be/musique-libre-de-droit-conditions-utilisation.html</xmpRights:WebStatement>
+    <dc:rights>
+      <rdf:Alt rdf:nodeID="N171cd7913cf64f3fbf205465ba9215e5">
+        <rdf:_1 xml:lang="x-default">Les musiques téléchargeables sur le site www.musicscreen.be sont soumises à la loi sur le droit d'auteur. Elles sont la propriété du compositeur / producteur Hicham Chahidi, et leur utilisation doit faire l'objet d'un contrat de licence avant toute diffusion. Tous les droits sont réservés. Sauf autorisation, toute utilisation des Oeuvres autre que la consultation privée est interdite. L'achat d'une licence d'utilisation vous garantie les droits nécéssaires à l'exploitation des musiques dans le cadre de votre projet.</rdf:_1>
+      </rdf:Alt>
+    </dc:rights>
+    <xmpDM:genre>Ethnique</xmpDM:genre>
+    <xmp:CreatorTool>Lavf57.41.100</xmp:CreatorTool>
+    <xmpDM:artist>Hicham Chahidi</xmpDM:artist>
+    <xmpMM:InstanceID>xmp.iid:b030ff59-5001-44c6-b392-4b45c1fd1b6c</xmpMM:InstanceID>
+    <xmpDM:composer>Hicham Chahidi</xmpDM:composer>
+    <dc:title>
+      <rdf:Alt rdf:nodeID="N6502933d36f94a2cb3995d6cece23ae9">
+        <rdf:_1 xml:lang="x-default">Shine</rdf:_1>
+      </rdf:Alt>
+    </dc:title>
+    <xmpMM:History>
+      <rdf:Seq rdf:nodeID="Ndbdc54a6e0504fb8895f5c62961c7543">
+        <rdf:_2>
+          <rdf:Description rdf:nodeID="N14ef70980edb44fcae744a0a590b1d8f">
+            <stEvt:instanceID>xmp.iid:b030ff59-5001-44c6-b392-4b45c1fd1b6c</stEvt:instanceID>
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:changed>/metadata</stEvt:changed>
+            <stEvt:softwareAgent>Adobe Bridge CC (Macintosh)</stEvt:softwareAgent>
+            <stEvt:when>2017-02-20T17:22:57+01:00</stEvt:when>
+          </rdf:Description>
+        </rdf:_2>
+        <rdf:_1>
+          <rdf:Description rdf:nodeID="Nc7093effc54540568c46add03083c418">
+            <stEvt:softwareAgent>Adobe Bridge CC 2017 (Windows)</stEvt:softwareAgent>
+            <stEvt:instanceID>xmp.iid:52c9d703-6766-ff40-8582-36d9f35b6a0d</stEvt:instanceID>
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:when>2017-02-20T15:32:55+01:00</stEvt:when>
+            <stEvt:changed>/metadata</stEvt:changed>
+          </rdf:Description>
+        </rdf:_1>
+      </rdf:Seq>
+    </xmpMM:History>
+    <xmp:MetadataDate>2017-02-20T17:22:57+01:00</xmp:MetadataDate>
+    <dc:subject>
+      <rdf:Bag rdf:nodeID="Nbd8589850c17493e81f8f6fa2f165d68">
+        <rdf:_2>afrique</rdf:_2>
+        <rdf:_3>jazz</rdf:_3>
+        <rdf:_1>musique celtique</rdf:_1>
+      </rdf:Bag>
+    </dc:subject>
+    <xmpMM:OriginalDocumentID>xmp.did:52c9d703-6766-ff40-8582-36d9f35b6a0d</xmpMM:OriginalDocumentID>
+    <dc:creator>
+      <rdf:Seq rdf:nodeID="N18bd0f779a144e338b95b91c0bf2ec69">
+        <rdf:_1>Hicham Chahidi</rdf:_1>
+      </rdf:Seq>
+    </dc:creator>
+    <xmpRights:Marked>False</xmpRights:Marked>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///var/folders/gc/m1_d1wrj5pd2tkwsjzx4d0cc0000gn/T/tmp5w4BgW">
+    <xmp:MetadataDate>2017-02-20T12:39:11+01:00</xmp:MetadataDate>
+    <xmpMM:DocumentID>xmp.did:8ad376e1-3ae6-bf4b-b6d5-8efdbd6c4519</xmpMM:DocumentID>
+    <xmp:CreatorTool>Lavf57.41.100</xmp:CreatorTool>
+    <dc:subject>
+      <rdf:Bag rdf:nodeID="Na03291b2791140989cb87738f432f506">
+        <rdf:_3>mystère</rdf:_3>
+        <rdf:_5>neige</rdf:_5>
+        <rdf:_2>pureté</rdf:_2>
+        <rdf:_1>rêve</rdf:_1>
+        <rdf:_4>aquatique</rdf:_4>
+      </rdf:Bag>
+    </dc:subject>
+    <xmpRights:WebStatement>http://www.musicscreen.be/musique-libre-de-droit-conditions-utilisation.html</xmpRights:WebStatement>
+    <xmp:Rating>2</xmp:Rating>
+    <dc:description>
+      <rdf:Alt rdf:nodeID="N148633ec832c4f56b8a4ee713212b560">
+        <rdf:_1 xml:lang="x-default">Composition libre de droits utilisant un seul instrument: LE Piano acoustique. à celui-ci, plusieurs effets audio ont été appliqués. Deux échos avec des temps de répétition différents sont utilisés, le résultat est injecté dans des filtres résonants, le tout est ensuite routé vers une réverbération de type Hall. Une musique donnant une impression de mystère et de rêve. Elle peut aussi faire penser à quelque chose de pur et de dépouillé.</rdf:_1>
+      </rdf:Alt>
+    </dc:description>
+    <xmpDM:logComment>Modifications possibles: Création de loops. réarrangement, Changement de la durée. Modification du tempo (Les modifications sont des services payants, demandez un devis) </xmpDM:logComment>
+    <dc:title>
+      <rdf:Alt rdf:nodeID="Nc58799fc6ced4aff9e38812eea0188f9">
+        <rdf:_1 xml:lang="x-default">Neige qui tombe</rdf:_1>
+      </rdf:Alt>
+    </dc:title>
+    <xmpMM:History>
+      <rdf:Seq rdf:nodeID="N8d217e22be3e403f90526862cdcca8bb">
+        <rdf:_2>
+          <rdf:Description rdf:nodeID="N96ea76aa53a342ed9881b2ecd3d4f426">
+            <stEvt:instanceID>xmp.iid:254a42e8-352c-934f-811a-0f8b9d4b354c</stEvt:instanceID>
+            <stEvt:changed>/metadata</stEvt:changed>
+            <stEvt:when>2017-02-20T12:39:11+01:00</stEvt:when>
+            <stEvt:softwareAgent>Adobe Bridge CC 2017 (Windows)</stEvt:softwareAgent>
+            <stEvt:action>saved</stEvt:action>
+          </rdf:Description>
+        </rdf:_2>
+        <rdf:_1>
+          <rdf:Description rdf:nodeID="N04531452189740cd8ec1e9fa11c056d8">
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:when>2017-02-20T12:30:08+01:00</stEvt:when>
+            <stEvt:instanceID>xmp.iid:8ad376e1-3ae6-bf4b-b6d5-8efdbd6c4519</stEvt:instanceID>
+            <stEvt:changed>/metadata</stEvt:changed>
+            <stEvt:softwareAgent>Adobe Bridge CC 2017 (Windows)</stEvt:softwareAgent>
+          </rdf:Description>
+        </rdf:_1>
+      </rdf:Seq>
+    </xmpMM:History>
+    <xmpRights:Marked>False</xmpRights:Marked>
+    <xmpDM:artist>Hicham Chahidi</xmpDM:artist>
+    <xmpMM:OriginalDocumentID>xmp.did:8ad376e1-3ae6-bf4b-b6d5-8efdbd6c4519</xmpMM:OriginalDocumentID>
+    <xmpDM:genre>Ambiances</xmpDM:genre>
+    <xmpDM:composer>Hicham Chahidi</xmpDM:composer>
+    <dc:creator>
+      <rdf:Seq rdf:nodeID="N78b19a7415b94997b3379076cbe98cb6">
+        <rdf:_1>Hicham Chahidi</rdf:_1>
+      </rdf:Seq>
+    </dc:creator>
+    <dc:rights>
+      <rdf:Alt rdf:nodeID="N5bab160117bc462796d9a3ea7175529e">
+        <rdf:_1 xml:lang="x-default">Les musiques téléchargeables sur le site www.musicscreen.be sont soumises à la loi sur le droit d'auteur. Elles sont la propriété du compositeur / producteur Hicham Chahidi, et leur utilisation doit faire l'objet d'un contrat de licence avant toute diffusion. Tous les droits sont réservés. Sauf autorisation, toute utilisation des Oeuvres autre que la consultation privée est interdite. L'achat d'une licence d'utilisation vous garantie les droits nécéssaires à l'exploitation des musiques dans le cadre de votre projet.</rdf:_1>
+      </rdf:Alt>
+    </dc:rights>
+    <xmpDM:instrument>piano, échos, effets</xmpDM:instrument>
+    <xmpMM:InstanceID>xmp.iid:254a42e8-352c-934f-811a-0f8b9d4b354c</xmpMM:InstanceID>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///var/folders/gc/m1_d1wrj5pd2tkwsjzx4d0cc0000gn/T/tmpS1QgfK">
+    <xmpMM:History>
+      <rdf:Seq rdf:nodeID="N54bd0200ec4e433db6b8f6b597a22390">
+        <rdf:_1>
+          <rdf:Description rdf:nodeID="N8d48675574c740eaa6ba2ad310d427ab">
+            <stEvt:when>2017-02-20T12:56:19+01:00</stEvt:when>
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:changed>/metadata</stEvt:changed>
+            <stEvt:instanceID>xmp.iid:91dad824-4839-aa44-9dde-d924e4e25352</stEvt:instanceID>
+            <stEvt:softwareAgent>Adobe Bridge CC 2017 (Windows)</stEvt:softwareAgent>
+          </rdf:Description>
+        </rdf:_1>
+        <rdf:_2>
+          <rdf:Description rdf:nodeID="N54c1ad6343d54cba8c71fe02bf40ae84">
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:softwareAgent>Adobe Bridge CC (Macintosh)</stEvt:softwareAgent>
+            <stEvt:changed>/metadata</stEvt:changed>
+            <stEvt:instanceID>xmp.iid:ce6f772c-9ee0-4e77-b858-cdde819e322b</stEvt:instanceID>
+            <stEvt:when>2017-02-20T17:16:01+01:00</stEvt:when>
+          </rdf:Description>
+        </rdf:_2>
+      </rdf:Seq>
+    </xmpMM:History>
+    <dc:title>
+      <rdf:Alt rdf:nodeID="N3c181aa76cf84ac886144b6c87394592">
+        <rdf:_1 xml:lang="x-default">Mutant</rdf:_1>
+      </rdf:Alt>
+    </dc:title>
+    <xmpRights:Marked>False</xmpRights:Marked>
+    <xmpDM:artist>Hicham Chahidi</xmpDM:artist>
+    <xmpDM:genre>Piano</xmpDM:genre>
+    <xmpDM:logComment>Modifications possibles: Changement de tempo pour accélérer ou ralentir la musique. Désaccordage du piano. Réalisation d'une boucle ( Loop ). Changement de l'intensité de la réverbération: pour simuler un lieux plus grand ou plus petit. Des enregistrements de cette musique exécutés sur 3 pianos différents: Steinway, Bosendorfer et Yamaha. Changement de l'instrument pour une version électronique ou électrique. Application d'effets. (Les modifications sont des services payants, demandez un devis)</xmpDM:logComment>
+    <xmpMM:InstanceID>xmp.iid:ce6f772c-9ee0-4e77-b858-cdde819e322b</xmpMM:InstanceID>
+    <xmpDM:composer>Hicham Chahidi</xmpDM:composer>
+    <dc:creator>
+      <rdf:Seq rdf:nodeID="N7fc1b72f1bde469984127c6b78ab8452">
+        <rdf:_1>Hicham Chahidi</rdf:_1>
+      </rdf:Seq>
+    </dc:creator>
+    <dc:subject>
+      <rdf:Bag rdf:nodeID="N1a98ac6ab73f493a888c7a010cded2a8">
+        <rdf:_1>piano solo</rdf:_1>
+        <rdf:_5>contemplation</rdf:_5>
+        <rdf:_2>pureté</rdf:_2>
+        <rdf:_4>douceur</rdf:_4>
+        <rdf:_3>rêve</rdf:_3>
+      </rdf:Bag>
+    </dc:subject>
+    <xmp:Rating>2</xmp:Rating>
+    <xmpMM:OriginalDocumentID>xmp.did:91dad824-4839-aa44-9dde-d924e4e25352</xmpMM:OriginalDocumentID>
+    <xmpMM:DocumentID>xmp.did:91dad824-4839-aa44-9dde-d924e4e25352</xmpMM:DocumentID>
+    <dc:description>
+      <rdf:Alt rdf:nodeID="N571d296a3088464698a79b20a9826c9d">
+        <rdf:_1 xml:lang="x-default">Musique libre de droit au piano évoquant une grande douceur et une grande pureté. Sur un tempo très lent ce titre évolue avec une main gauche qui joue une sorte de basse continue qui joue un motif circulaire, et une main droite qui joue un thème un peu débridé mais qui reste d'une grande profondeur. La musique est jouée sur un piano préparé.</rdf:_1>
+      </rdf:Alt>
+    </dc:description>
+    <xmp:MetadataDate>2017-02-20T17:16:01+01:00</xmp:MetadataDate>
+    <xmp:CreatorTool>Lavf57.41.100</xmp:CreatorTool>
+    <dc:rights>
+      <rdf:Alt rdf:nodeID="N0fa07c8f57a34131be2d9889e64c4499">
+        <rdf:_1 xml:lang="x-default">Les musiques téléchargeables sur le site www.musicscreen.be sont soumises à la loi sur le droit d'auteur. Elles sont la propriété du compositeur / producteur Hicham Chahidi, et leur utilisation doit faire l'objet d'un contrat de licence avant toute diffusion. Tous les droits sont réservés. Sauf autorisation, toute utilisation des Oeuvres autre que la consultation privée est interdite. L'achat d'une licence d'utilisation vous garantie les droits nécéssaires à l'exploitation des musiques dans le cadre de votre projet.</rdf:_1>
+      </rdf:Alt>
+    </dc:rights>
+    <xmpRights:WebStatement>http://www.musicscreen.be/musique-libre-de-droit-conditions-utilisation.html</xmpRights:WebStatement>
+    <xmpDM:instrument>piano</xmpDM:instrument>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///var/folders/gc/m1_d1wrj5pd2tkwsjzx4d0cc0000gn/T/tmpbyKHrk">
+    <dc:rights>
+      <rdf:Alt rdf:nodeID="N744cc565b4834ad081fa837bbc53cebf">
+        <rdf:_1 xml:lang="x-default">Les musiques téléchargeables sur le site www.musicscreen.be sont soumises à la loi sur le droit d'auteur. Elles sont la propriété du compositeur / producteur Hicham Chahidi, et leur utilisation doit faire l'objet d'un contrat de licence avant toute diffusion. Tous les droits sont réservés. Sauf autorisation, toute utilisation des Oeuvres autre que la consultation privée est interdite. L'achat d'une licence d'utilisation vous garantie les droits nécéssaires à l'exploitation des musiques dans le cadre de votre projet.</rdf:_1>
+      </rdf:Alt>
+    </dc:rights>
+    <xmp:Rating>1</xmp:Rating>
+    <dc:creator>
+      <rdf:Seq rdf:nodeID="N700ae2cce42844ce873d64472fe0915c">
+        <rdf:_1>Hicham Chahidi</rdf:_1>
+      </rdf:Seq>
+    </dc:creator>
+    <xmpMM:InstanceID>xmp.iid:009839a7-b91a-42fc-b119-07da1610fb46</xmpMM:InstanceID>
+    <dc:title>
+      <rdf:Alt rdf:nodeID="N12f6b3fdf92e4993aabf5c2a5196c259">
+        <rdf:_1 xml:lang="x-default">Treize</rdf:_1>
+      </rdf:Alt>
+    </dc:title>
+    <dc:description>
+      <rdf:Alt rdf:nodeID="N20db435e73d848b0abdb1546bf2e90b2">
+        <rdf:_1 xml:lang="x-default">Musique angoissante. Titre mariant des sons d'orchestre de cordes jouant des accords dissonants et des sonorités électroniques.</rdf:_1>
+      </rdf:Alt>
+    </dc:description>
+    <xmp:MetadataDate>2017-02-20T17:14:09+01:00</xmp:MetadataDate>
+    <xmpDM:genre>Electro</xmpDM:genre>
+    <xmpDM:composer>Hicham Chahidi</xmpDM:composer>
+    <xmpRights:Marked>False</xmpRights:Marked>
+    <dc:subject>
+      <rdf:Bag rdf:nodeID="Nfaef49e977a14bb7b9cdcd3084306ce1">
+        <rdf:_3>cordes</rdf:_3>
+        <rdf:_1>angoisse</rdf:_1>
+        <rdf:_2>peur</rdf:_2>
+      </rdf:Bag>
+    </dc:subject>
+    <xmpMM:History>
+      <rdf:Seq rdf:nodeID="Nb0bf3c496b1b4ec9adfd0c5b83ffa600">
+        <rdf:_1>
+          <rdf:Description rdf:nodeID="Nc54d2a76300d437ea59625bd2f1bb819">
+            <stEvt:softwareAgent>Adobe Bridge CC 2017 (Windows)</stEvt:softwareAgent>
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:when>2017-02-20T12:24:50+01:00</stEvt:when>
+            <stEvt:changed>/metadata</stEvt:changed>
+            <stEvt:instanceID>xmp.iid:ceaf9c3e-08b1-a844-abae-9db2efd1bdb0</stEvt:instanceID>
+          </rdf:Description>
+        </rdf:_1>
+        <rdf:_2>
+          <rdf:Description rdf:nodeID="N7175b2f1f9e14ab69615f011cde4075c">
+            <stEvt:instanceID>xmp.iid:009839a7-b91a-42fc-b119-07da1610fb46</stEvt:instanceID>
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:when>2017-02-20T17:14:09+01:00</stEvt:when>
+            <stEvt:changed>/metadata</stEvt:changed>
+            <stEvt:softwareAgent>Adobe Bridge CC (Macintosh)</stEvt:softwareAgent>
+          </rdf:Description>
+        </rdf:_2>
+      </rdf:Seq>
+    </xmpMM:History>
+    <xmp:CreatorTool>Lavf57.41.100</xmp:CreatorTool>
+    <xmpMM:OriginalDocumentID>xmp.did:ceaf9c3e-08b1-a844-abae-9db2efd1bdb0</xmpMM:OriginalDocumentID>
+    <xmpRights:WebStatement>http://www.musicscreen.be/musique-libre-de-droit-conditions-utilisation.html</xmpRights:WebStatement>
+    <xmpDM:artist>Hicham Chahidi</xmpDM:artist>
+    <xmpMM:DocumentID>xmp.did:ceaf9c3e-08b1-a844-abae-9db2efd1bdb0</xmpMM:DocumentID>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///var/folders/gc/m1_d1wrj5pd2tkwsjzx4d0cc0000gn/T/tmpfDhVuo">
+    <xmpDM:artist>Hicham Chahidi</xmpDM:artist>
+    <xmpRights:WebStatement>http://www.musicscreen.be/musique-libre-de-droit-conditions-utilisation.html</xmpRights:WebStatement>
+    <xmpRights:Marked>False</xmpRights:Marked>
+    <xmpMM:OriginalDocumentID>xmp.did:d1977344-c9b3-b742-8141-27ceecca0d02</xmpMM:OriginalDocumentID>
+    <dc:description>
+      <rdf:Alt rdf:nodeID="Ne09b3202aaf94006a87d9500ea15b042">
+        <rdf:_1 xml:lang="x-default">Musique d'ambiance libre de droit. Résultat d'expérimentations diverses, cette musique a été en grande partie générée numériquement par l'utilisation de différents types d'oscillateurs, auxquels j'ai ajouté par moment des petites percussions. Le tout a été édité puis traité par des effets audio ( écho et filtres ). Une réverbération a été appliquée au résultat.</rdf:_1>
+      </rdf:Alt>
+    </dc:description>
+    <xmp:MetadataDate>2017-02-20T12:42:08+01:00</xmp:MetadataDate>
+    <xmpDM:instrument>synthèse sonore, percussions et effets</xmpDM:instrument>
+    <xmpDM:logComment>Modifications possibles: Création de loops. réarrangement, Changement de la durée. Modification du tempo (Les modifications sont des services payants, demandez un devis)
+</xmpDM:logComment>
+    <xmpMM:InstanceID>xmp.iid:c527672d-d690-4346-88a5-0b4eb052b965</xmpMM:InstanceID>
+    <xmpMM:History>
+      <rdf:Seq rdf:nodeID="Nb23d25681b8541ae9137f89200889d0e">
+        <rdf:_2>
+          <rdf:Description rdf:nodeID="N99aa23dbd94c4fc8bfddb37ec6a9d273">
+            <stEvt:changed>/metadata</stEvt:changed>
+            <stEvt:when>2017-02-20T12:42:08+01:00</stEvt:when>
+            <stEvt:softwareAgent>Adobe Bridge CC 2017 (Windows)</stEvt:softwareAgent>
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:instanceID>xmp.iid:c527672d-d690-4346-88a5-0b4eb052b965</stEvt:instanceID>
+          </rdf:Description>
+        </rdf:_2>
+        <rdf:_1>
+          <rdf:Description rdf:nodeID="Nf7bdd1bd17384599a965a17be8f73dd1">
+            <stEvt:softwareAgent>Adobe Bridge CC 2017 (Windows)</stEvt:softwareAgent>
+            <stEvt:instanceID>xmp.iid:d1977344-c9b3-b742-8141-27ceecca0d02</stEvt:instanceID>
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:when>2017-02-20T12:33:48+01:00</stEvt:when>
+            <stEvt:changed>/metadata</stEvt:changed>
+          </rdf:Description>
+        </rdf:_1>
+      </rdf:Seq>
+    </xmpMM:History>
+    <dc:rights>
+      <rdf:Alt rdf:nodeID="Nde911bc706d741d2bc80f6cef9377718">
+        <rdf:_1 xml:lang="x-default">Les musiques téléchargeables sur le site www.musicscreen.be sont soumises à la loi sur le droit d'auteur. Elles sont la propriété du compositeur / producteur Hicham Chahidi, et leur utilisation doit faire l'objet d'un contrat de licence avant toute diffusion. Tous les droits sont réservés. Sauf autorisation, toute utilisation des Oeuvres autre que la consultation privée est interdite. L'achat d'une licence d'utilisation vous garantie les droits nécéssaires à l'exploitation des musiques dans le cadre de votre projet.</rdf:_1>
+      </rdf:Alt>
+    </dc:rights>
+    <xmpMM:DocumentID>xmp.did:d1977344-c9b3-b742-8141-27ceecca0d02</xmpMM:DocumentID>
+    <dc:title>
+      <rdf:Alt rdf:nodeID="N5e74534dffc44cf889cd4f84d611afdf">
+        <rdf:_1 xml:lang="x-default">Delta</rdf:_1>
+      </rdf:Alt>
+    </dc:title>
+    <xmp:CreatorTool>Lavf57.41.100</xmp:CreatorTool>
+    <dc:subject>
+      <rdf:Bag rdf:nodeID="N4dd63272388249baa38f7e92471283af">
+        <rdf:_4>espace</rdf:_4>
+        <rdf:_3>étrange</rdf:_3>
+        <rdf:_1>science fiction</rdf:_1>
+        <rdf:_5>design sonore</rdf:_5>
+        <rdf:_2>mystère</rdf:_2>
+      </rdf:Bag>
+    </dc:subject>
+    <xmpDM:genre>Ambiances</xmpDM:genre>
+    <xmpDM:composer>Hicham Chahidi</xmpDM:composer>
+    <xmp:Rating>4</xmp:Rating>
+    <dc:creator>
+      <rdf:Seq rdf:nodeID="N1f156e4ed0d74f6f9ac3181da6d5f43d">
+        <rdf:_1>Hicham Chahidi</rdf:_1>
+      </rdf:Seq>
+    </dc:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///var/folders/gc/m1_d1wrj5pd2tkwsjzx4d0cc0000gn/T/tmp3WqJRQ">
+    <xmpMM:DocumentID>xmp.did:7f9b1a19-7d4a-314d-86cb-645a8efb84bb</xmpMM:DocumentID>
+    <dc:description>
+      <rdf:Alt rdf:nodeID="Nd4e6f8b460334e2ab7f1092452a5fedf">
+        <rdf:_1 xml:lang="x-default">Musique libre de droit persane, avec des instruments et des sonorités originaires d'Iran: nay, quanun, def, riq</rdf:_1>
+      </rdf:Alt>
+    </dc:description>
+    <xmpRights:Marked>False</xmpRights:Marked>
+    <xmpMM:InstanceID>xmp.iid:29a8133f-d4df-4390-81a6-bf62f3183110</xmpMM:InstanceID>
+    <xmpRights:WebStatement>http://www.musicscreen.be/musique-libre-de-droit-conditions-utilisation.html</xmpRights:WebStatement>
+    <dc:rights>
+      <rdf:Alt rdf:nodeID="Nff20266022d64fceb32367ebd6da2c77">
+        <rdf:_1 xml:lang="x-default">Les musiques téléchargeables sur le site www.musicscreen.be sont soumises à la loi sur le droit d'auteur. Elles sont la propriété du compositeur / producteur Hicham Chahidi, et leur utilisation doit faire l'objet d'un contrat de licence avant toute diffusion. Tous les droits sont réservés. Sauf autorisation, toute utilisation des Oeuvres autre que la consultation privée est interdite. L'achat d'une licence d'utilisation vous garantie les droits nécéssaires à l'exploitation des musiques dans le cadre de votre projet.</rdf:_1>
+      </rdf:Alt>
+    </dc:rights>
+    <xmpDM:composer>Hicham Chahidi</xmpDM:composer>
+    <xmpDM:genre>Ethnique</xmpDM:genre>
+    <xmp:CreatorTool>Lavf57.41.100</xmp:CreatorTool>
+    <xmpDM:artist>Hicham Chahidi</xmpDM:artist>
+    <dc:creator>
+      <rdf:Seq rdf:nodeID="N11de93923bb3483c9d90e02051f0d4de">
+        <rdf:_1>Hicham Chahidi</rdf:_1>
+      </rdf:Seq>
+    </dc:creator>
+    <xmp:MetadataDate>2017-02-20T17:22:22+01:00</xmp:MetadataDate>
+    <dc:subject>
+      <rdf:Bag rdf:nodeID="Ne245c560388149cb85df02097fadd00b">
+        <rdf:_4>arabe</rdf:_4>
+        <rdf:_3>orientale</rdf:_3>
+        <rdf:_2>perse</rdf:_2>
+        <rdf:_5>musulmane</rdf:_5>
+        <rdf:_1>musique iranienne</rdf:_1>
+      </rdf:Bag>
+    </dc:subject>
+    <xmpMM:History>
+      <rdf:Seq rdf:nodeID="N2ba0058895b84fbcbda4a3ef3ca09485">
+        <rdf:_2>
+          <rdf:Description rdf:nodeID="N03793ef5a4d644bab81d8e0dbabd845b">
+            <stEvt:changed>/metadata</stEvt:changed>
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:when>2017-02-20T17:22:22+01:00</stEvt:when>
+            <stEvt:instanceID>xmp.iid:29a8133f-d4df-4390-81a6-bf62f3183110</stEvt:instanceID>
+            <stEvt:softwareAgent>Adobe Bridge CC (Macintosh)</stEvt:softwareAgent>
+          </rdf:Description>
+        </rdf:_2>
+        <rdf:_1>
+          <rdf:Description rdf:nodeID="Nf52bcb7b1f90452ba35347bdc04eeed7">
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:when>2017-02-20T15:27:53+01:00</stEvt:when>
+            <stEvt:instanceID>xmp.iid:7f9b1a19-7d4a-314d-86cb-645a8efb84bb</stEvt:instanceID>
+            <stEvt:changed>/metadata</stEvt:changed>
+            <stEvt:softwareAgent>Adobe Bridge CC 2017 (Windows)</stEvt:softwareAgent>
+          </rdf:Description>
+        </rdf:_1>
+      </rdf:Seq>
+    </xmpMM:History>
+    <xmpMM:OriginalDocumentID>xmp.did:7f9b1a19-7d4a-314d-86cb-645a8efb84bb</xmpMM:OriginalDocumentID>
+    <dc:title>
+      <rdf:Alt rdf:nodeID="Nad3eb2efa4d44cae8b78e32e9545dbbb">
+        <rdf:_1 xml:lang="x-default">Persian Flower</rdf:_1>
+      </rdf:Alt>
+    </dc:title>
+    <xmp:Rating>4</xmp:Rating>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///var/folders/gc/m1_d1wrj5pd2tkwsjzx4d0cc0000gn/T/tmpDOQeSA">
+    <xmpDM:logComment>Modifications possibles: Changement du tempo, création de boucle, changement de la durée. (Les modifications sont des services payants, demandez un devis).</xmpDM:logComment>
+    <xmp:Rating>4</xmp:Rating>
+    <xmp:CreatorTool>Lavf57.41.100</xmp:CreatorTool>
+    <xmpMM:DocumentID>xmp.did:8bac8cc8-8899-b84a-89ca-d79bf0ef8164</xmpMM:DocumentID>
+    <xmpDM:instrument>bruitages, basse analogique, guitares électrique, boites à rythme, synthétiseurs</xmpDM:instrument>
+    <dc:description>
+      <rdf:Alt rdf:nodeID="N469baec2b0d04648920a3f09501b3c18">
+        <rdf:_1 xml:lang="x-default">Musique libre de droit dans le style electro, avec synthétiseurs numériques, boites à rythme et synthétiseurs analogiques. Un grand travail de sound design a été réalisé sur ce titre, avec l'utilisation de filtres résonants, de plusieurs techniques de synthèse sonore. Pour la partie acoustique et électrique, notons l'utilisation de bruitages de pièces métalliques tout au long du morceau, et l'utilisation de deux guitares éléctriques avec effet de saturation OverDrive.
+</rdf:_1>
+      </rdf:Alt>
+    </dc:description>
+    <xmpMM:History>
+      <rdf:Seq rdf:nodeID="Nbb24175b104849229b43959a5f606c6a">
+        <rdf:_1>
+          <rdf:Description rdf:nodeID="N9d25b8b563b541249e764eb7d92570fb">
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:changed>/metadata</stEvt:changed>
+            <stEvt:when>2017-02-20T15:38:41+01:00</stEvt:when>
+            <stEvt:instanceID>xmp.iid:8bac8cc8-8899-b84a-89ca-d79bf0ef8164</stEvt:instanceID>
+            <stEvt:softwareAgent>Adobe Bridge CC 2017 (Windows)</stEvt:softwareAgent>
+          </rdf:Description>
+        </rdf:_1>
+      </rdf:Seq>
+    </xmpMM:History>
+    <xmpRights:WebStatement>http://www.musicscreen.be/musique-libre-de-droit-conditions-utilisation.html</xmpRights:WebStatement>
+    <dc:title>
+      <rdf:Alt rdf:nodeID="N36959e3cea8146d0af9decf7e32f581f">
+        <rdf:_1 xml:lang="x-default">Luiz</rdf:_1>
+      </rdf:Alt>
+    </dc:title>
+    <xmpMM:InstanceID>xmp.iid:8bac8cc8-8899-b84a-89ca-d79bf0ef8164</xmpMM:InstanceID>
+    <xmpMM:OriginalDocumentID>xmp.did:8bac8cc8-8899-b84a-89ca-d79bf0ef8164</xmpMM:OriginalDocumentID>
+    <xmpRights:Marked>False</xmpRights:Marked>
+    <dc:subject>
+      <rdf:Bag rdf:nodeID="N69913ce8d7b24d0a83d7faca636046fa">
+        <rdf:_4>voyage</rdf:_4>
+        <rdf:_5>liberté</rdf:_5>
+        <rdf:_1>mystique</rdf:_1>
+        <rdf:_3>pouvoir</rdf:_3>
+        <rdf:_2>force</rdf:_2>
+        <rdf:_6>énergie</rdf:_6>
+      </rdf:Bag>
+    </dc:subject>
+    <xmpDM:artist>Hicham Chahidi</xmpDM:artist>
+    <xmpDM:genre>Electro</xmpDM:genre>
+    <dc:rights>
+      <rdf:Alt rdf:nodeID="N8dfe286a5172464da74ba2b52578d159">
+        <rdf:_1 xml:lang="x-default">Les musiques téléchargeables sur le site www.musicscreen.be sont soumises à la loi sur le droit d'auteur. Elles sont la propriété du compositeur / producteur Hicham Chahidi, et leur utilisation doit faire l'objet d'un contrat de licence avant toute diffusion. Tous les droits sont réservés. Sauf autorisation, toute utilisation des Oeuvres autre que la consultation privée est interdite. L'achat d'une licence d'utilisation vous garantie les droits nécéssaires à l'exploitation des musiques dans le cadre de votre projet.</rdf:_1>
+      </rdf:Alt>
+    </dc:rights>
+    <xmpDM:composer>Hicham Chahidi</xmpDM:composer>
+    <dc:creator>
+      <rdf:Seq rdf:nodeID="Nbcf8b1709a094671a6ed4025936ce24d">
+        <rdf:_1>Hicham Chahidi</rdf:_1>
+      </rdf:Seq>
+    </dc:creator>
+    <xmp:MetadataDate>2017-02-20T15:38:41+01:00</xmp:MetadataDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///var/folders/gc/m1_d1wrj5pd2tkwsjzx4d0cc0000gn/T/tmpKmn18J">
+    <xmpRights:WebStatement>http://www.musicscreen.be/musique-libre-de-droit-conditions-utilisation.html</xmpRights:WebStatement>
+    <xmp:CreatorTool>Lavf57.41.100</xmp:CreatorTool>
+    <dc:title>
+      <rdf:Alt rdf:nodeID="N0e176be3fda4439abe30f8149358b9cd">
+        <rdf:_1 xml:lang="x-default">5Keer</rdf:_1>
+      </rdf:Alt>
+    </dc:title>
+    <xmp:MetadataDate>2017-02-20T17:11:45+01:00</xmp:MetadataDate>
+    <xmp:Rating>4</xmp:Rating>
+    <dc:creator>
+      <rdf:Seq rdf:nodeID="Ndb456cfdca9e4360b73152802fdf98a9">
+        <rdf:_1>Hicham Chahidi</rdf:_1>
+      </rdf:Seq>
+    </dc:creator>
+    <dc:subject>
+      <rdf:Bag rdf:nodeID="N986764861a1c4b6e917d66c3be4f1119">
+        <rdf:_2>house</rdf:_2>
+        <rdf:_1>techno</rdf:_1>
+        <rdf:_3>acid</rdf:_3>
+      </rdf:Bag>
+    </dc:subject>
+    <xmpMM:InstanceID>xmp.iid:2660870c-c171-4935-a31e-5f61405b0614</xmpMM:InstanceID>
+    <xmpMM:OriginalDocumentID>xmp.did:add858aa-65eb-6148-b59f-a18399189456</xmpMM:OriginalDocumentID>
+    <xmpRights:Marked>False</xmpRights:Marked>
+    <xmpMM:DocumentID>xmp.did:add858aa-65eb-6148-b59f-a18399189456</xmpMM:DocumentID>
+    <xmpDM:artist>Hicham Chahidi</xmpDM:artist>
+    <xmpDM:genre>Electro</xmpDM:genre>
+    <xmpDM:composer>Hicham Chahidi</xmpDM:composer>
+    <xmpMM:History>
+      <rdf:Seq rdf:nodeID="N8dc4da86af8e4658b420ee094314ed44">
+        <rdf:_1>
+          <rdf:Description rdf:nodeID="N07a2d9a304a343fa8c487fbb386bee2d">
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:instanceID>xmp.iid:add858aa-65eb-6148-b59f-a18399189456</stEvt:instanceID>
+            <stEvt:changed>/metadata</stEvt:changed>
+            <stEvt:softwareAgent>Adobe Bridge CC 2017 (Windows)</stEvt:softwareAgent>
+            <stEvt:when>2017-02-20T12:06:18+01:00</stEvt:when>
+          </rdf:Description>
+        </rdf:_1>
+        <rdf:_2>
+          <rdf:Description rdf:nodeID="N3967bd4e8ff44b92a9cc49d6f093d13f">
+            <stEvt:instanceID>xmp.iid:2660870c-c171-4935-a31e-5f61405b0614</stEvt:instanceID>
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:changed>/metadata</stEvt:changed>
+            <stEvt:softwareAgent>Adobe Bridge CC (Macintosh)</stEvt:softwareAgent>
+            <stEvt:when>2017-02-20T17:11:45+01:00</stEvt:when>
+          </rdf:Description>
+        </rdf:_2>
+      </rdf:Seq>
+    </xmpMM:History>
+    <dc:description>
+      <rdf:Alt rdf:nodeID="Ne9f784b77de2419c9a2cf2e6abed3a83">
+        <rdf:_1 xml:lang="x-default">Musique libre droit électro. Avec synthétiseurs, et boîte à rythme.</rdf:_1>
+      </rdf:Alt>
+    </dc:description>
+    <dc:rights>
+      <rdf:Alt rdf:nodeID="Nc2c3641a3f2642788ca543417a3ca4be">
+        <rdf:_1 xml:lang="x-default">Les musiques téléchargeables sur le site www.musicscreen.be sont soumises à la loi sur le droit d'auteur. Elles sont la propriété du compositeur / producteur Hicham Chahidi, et leur utilisation doit faire l'objet d'un contrat de licence avant toute diffusion. Tous les droits sont réservés. Sauf autorisation, toute utilisation des Oeuvres autre que la consultation privée est interdite. L'achat d'une licence d'utilisation vous garantie les droits nécéssaires à l'exploitation des musiques dans le cadre de votre projet.</rdf:_1>
+      </rdf:Alt>
+    </dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///var/folders/gc/m1_d1wrj5pd2tkwsjzx4d0cc0000gn/T/tmp15_QEj">
+    <dc:title>
+      <rdf:Alt rdf:nodeID="N4dd0a2b56e134edbb97d089bd42c93e4">
+        <rdf:_1 xml:lang="x-default">Hilouine</rdf:_1>
+      </rdf:Alt>
+    </dc:title>
+    <xmpDM:composer>Hicham Chahidi</xmpDM:composer>
+    <xmp:CreatorTool>Lavf57.41.100</xmp:CreatorTool>
+    <xmpDM:instrument>piano</xmpDM:instrument>
+    <xmpMM:DocumentID>xmp.did:0bfc26aa-92ab-7f44-9c89-d1255740e184</xmpMM:DocumentID>
+    <dc:description>
+      <rdf:Alt rdf:nodeID="N5a4ac4bd869a43e0b6917e0f680ad258">
+        <rdf:_1 xml:lang="x-default">Musique libre de droit au piano. Musique douce et nostalgique, un tempo lent en 3 temps ( valse ), avec un changement fréquent d'harmonie, et donnant une impression de pureté. Elle illustrera à merveille des scènes nostalgiques ou tristes, des moments de paix et de sérenité.
+</rdf:_1>
+      </rdf:Alt>
+    </dc:description>
+    <dc:creator>
+      <rdf:Seq rdf:nodeID="N8f5cdebce808422a8d29b082bc696256">
+        <rdf:_1>Hicham Chahidi</rdf:_1>
+      </rdf:Seq>
+    </dc:creator>
+    <xmpMM:InstanceID>xmp.iid:49c68c28-276d-754b-8377-4886692a3b42</xmpMM:InstanceID>
+    <xmpDM:genre>Piano</xmpDM:genre>
+    <xmp:MetadataDate>2017-02-20T12:51+01:00</xmp:MetadataDate>
+    <xmpRights:Marked>False</xmpRights:Marked>
+    <xmpDM:artist>Hicham Chahidi</xmpDM:artist>
+    <xmpRights:WebStatement>http://www.musicscreen.be/musique-libre-de-droit-conditions-utilisation.html</xmpRights:WebStatement>
+    <dc:rights>
+      <rdf:Alt rdf:nodeID="N149f8087a09d49fbaaf197503b86ec43">
+        <rdf:_1 xml:lang="x-default">Les musiques téléchargeables sur le site www.musicscreen.be sont soumises à la loi sur le droit d'auteur. Elles sont la propriété du compositeur / producteur Hicham Chahidi, et leur utilisation doit faire l'objet d'un contrat de licence avant toute diffusion. Tous les droits sont réservés. Sauf autorisation, toute utilisation des Oeuvres autre que la consultation privée est interdite. L'achat d'une licence d'utilisation vous garantie les droits nécéssaires à l'exploitation des musiques dans le cadre de votre projet.</rdf:_1>
+      </rdf:Alt>
+    </dc:rights>
+    <xmp:Rating>2</xmp:Rating>
+    <xmpDM:logComment>Modifications possibles: Changement de tempo. Réalisation d'une boucle ( Loop ). Changement de l'instrument. Application d'effets. (Les modifications sont des services additionnels payants, demandez un devis)</xmpDM:logComment>
+    <xmpMM:OriginalDocumentID>xmp.did:0bfc26aa-92ab-7f44-9c89-d1255740e184</xmpMM:OriginalDocumentID>
+    <dc:subject>
+      <rdf:Bag rdf:nodeID="Nc566d116588f47f8b3d23b338d6098df">
+        <rdf:_1>piano</rdf:_1>
+        <rdf:_5>tristesse</rdf:_5>
+        <rdf:_2>nostalgie</rdf:_2>
+        <rdf:_4>regrets</rdf:_4>
+        <rdf:_3>pureté</rdf:_3>
+        <rdf:_6>paix</rdf:_6>
+        <rdf:_7>amour</rdf:_7>
+        <rdf:_8>solitude</rdf:_8>
+      </rdf:Bag>
+    </dc:subject>
+    <xmpMM:History>
+      <rdf:Seq rdf:nodeID="N395013beed02479a824340dffbe91942">
+        <rdf:_1>
+          <rdf:Description rdf:nodeID="Nab6f4017587a47e9bd093a3ecdd310d7">
+            <stEvt:instanceID>xmp.iid:0bfc26aa-92ab-7f44-9c89-d1255740e184</stEvt:instanceID>
+            <stEvt:softwareAgent>Adobe Bridge CC 2017 (Windows)</stEvt:softwareAgent>
+            <stEvt:when>2017-02-20T12:50:16+01:00</stEvt:when>
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:changed>/metadata</stEvt:changed>
+          </rdf:Description>
+        </rdf:_1>
+        <rdf:_2>
+          <rdf:Description rdf:nodeID="N476ca85ec51442988b26f8bcd2376599">
+            <stEvt:softwareAgent>Adobe Bridge CC 2017 (Windows)</stEvt:softwareAgent>
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:when>2017-02-20T12:51+01:00</stEvt:when>
+            <stEvt:changed>/metadata</stEvt:changed>
+            <stEvt:instanceID>xmp.iid:49c68c28-276d-754b-8377-4886692a3b42</stEvt:instanceID>
+          </rdf:Description>
+        </rdf:_2>
+      </rdf:Seq>
+    </xmpMM:History>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///var/folders/gc/m1_d1wrj5pd2tkwsjzx4d0cc0000gn/T/tmpk6qWcz">
+    <dc:rights>
+      <rdf:Alt rdf:nodeID="N07dc8e61a5f54eae918f33955136b329">
+        <rdf:_1 xml:lang="x-default">Les musiques téléchargeables sur le site www.musicscreen.be sont soumises à la loi sur le droit d'auteur. Elles sont la propriété du compositeur / producteur Hicham Chahidi, et leur utilisation doit faire l'objet d'un contrat de licence avant toute diffusion. Tous les droits sont réservés. Sauf autorisation, toute utilisation des Oeuvres autre que la consultation privée est interdite. L'achat d'une licence d'utilisation vous garantie les droits nécéssaires à l'exploitation des musiques dans le cadre de votre projet.</rdf:_1>
+      </rdf:Alt>
+    </dc:rights>
+    <xmpMM:OriginalDocumentID>xmp.did:3b349105-f74a-b941-ae36-933ce160faa7</xmpMM:OriginalDocumentID>
+    <xmpMM:History>
+      <rdf:Seq rdf:nodeID="Ndf0dcbbc25e44f4381083fb66a1970d3">
+        <rdf:_1>
+          <rdf:Description rdf:nodeID="N34733200c02e4a5e808d8fc867730fc6">
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:changed>/metadata</stEvt:changed>
+            <stEvt:instanceID>xmp.iid:3b349105-f74a-b941-ae36-933ce160faa7</stEvt:instanceID>
+            <stEvt:softwareAgent>Adobe Bridge CC 2017 (Windows)</stEvt:softwareAgent>
+            <stEvt:when>2017-02-20T12:36:47+01:00</stEvt:when>
+          </rdf:Description>
+        </rdf:_1>
+        <rdf:_2>
+          <rdf:Description rdf:nodeID="Nffbe7cebf188467eaef839f15f1695b4">
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:softwareAgent>Adobe Bridge CC (Macintosh)</stEvt:softwareAgent>
+            <stEvt:changed>/metadata</stEvt:changed>
+            <stEvt:instanceID>xmp.iid:f9fb23a3-32b6-4190-8411-3e91e7e58fd7</stEvt:instanceID>
+            <stEvt:when>2017-02-20T17:10:10+01:00</stEvt:when>
+          </rdf:Description>
+        </rdf:_2>
+      </rdf:Seq>
+    </xmpMM:History>
+    <xmpDM:artist>Hicham Chahidi</xmpDM:artist>
+    <dc:title>
+      <rdf:Alt rdf:nodeID="N95620a28721e4b249ba37ee6d81c7557">
+        <rdf:_1 xml:lang="x-default">Tetoma</rdf:_1>
+      </rdf:Alt>
+    </dc:title>
+    <xmpDM:instrument>piano, alto, synthétiseur, bruitages, boite à musique, percussions</xmpDM:instrument>
+    <xmpRights:WebStatement>http://www.musicscreen.be/musique-libre-de-droit-conditions-utilisation.html</xmpRights:WebStatement>
+    <dc:subject>
+      <rdf:Bag rdf:nodeID="N18f28bdeaa244da490920a8be53406d3">
+        <rdf:_4>aquatique</rdf:_4>
+        <rdf:_1>froid</rdf:_1>
+        <rdf:_2>vent</rdf:_2>
+        <rdf:_3>mystère</rdf:_3>
+        <rdf:_5>neige</rdf:_5>
+        <rdf:_6>tempête</rdf:_6>
+      </rdf:Bag>
+    </dc:subject>
+    <dc:description>
+      <rdf:Alt rdf:nodeID="Nf73177cefb7548368d440c79c0993e5e">
+        <rdf:_1 xml:lang="x-default">Musique libre de droit construite à partir de bruitages naturels, sons de vents et ambiances de tempête de neige, suivis par un motif cyclique joué au piano et doublé avec une boite à musique. Le tout est soutenu par des petites percussion en bois et en bambou. Un alto rejoint le tout ainsi qu'un synthétiseur jouant des motifs qui feront penser à la musique de la série X-Files, et donnant un côté mystérieux à cette musique. Après un crescendo où tous les instruments participent, la tension retombe subitement avec des note de piano qui s'égrainent en arpège, toujours doublées par la boite à musique..
+</rdf:_1>
+      </rdf:Alt>
+    </dc:description>
+    <xmpMM:InstanceID>xmp.iid:f9fb23a3-32b6-4190-8411-3e91e7e58fd7</xmpMM:InstanceID>
+    <xmpDM:composer>Hicham Chahidi</xmpDM:composer>
+    <xmp:MetadataDate>2017-02-20T17:10:10+01:00</xmp:MetadataDate>
+    <xmpRights:Marked>False</xmpRights:Marked>
+    <xmp:Rating>4</xmp:Rating>
+    <xmpMM:DocumentID>xmp.did:3b349105-f74a-b941-ae36-933ce160faa7</xmpMM:DocumentID>
+    <xmp:CreatorTool>Lavf57.41.100</xmp:CreatorTool>
+    <dc:creator>
+      <rdf:Seq rdf:nodeID="N45d831711bd9475abc7ad97bcbb0f503">
+        <rdf:_1>Hicham Chahidi</rdf:_1>
+      </rdf:Seq>
+    </dc:creator>
+    <xmpDM:genre>Ambiances</xmpDM:genre>
+    <xmpDM:logComment>Modifications possibles: Création de loops. réarrangement, Changement de la durée. Modification du tempo (Les modifications sont des services payants, demandez un devis)</xmpDM:logComment>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///var/folders/gc/m1_d1wrj5pd2tkwsjzx4d0cc0000gn/T/tmpt3X6O7">
+    <dc:rights>
+      <rdf:Alt rdf:nodeID="N358850863ce749fa89c1acd79cf78bd1">
+        <rdf:_1 xml:lang="x-default">Les musiques téléchargeables sur le site www.musicscreen.be sont soumises à la loi sur le droit d'auteur. Elles sont la propriété du compositeur / producteur Hicham Chahidi, et leur utilisation doit faire l'objet d'un contrat de licence avant toute diffusion. Tous les droits sont réservés. Sauf autorisation, toute utilisation des Oeuvres autre que la consultation privée est interdite. L'achat d'une licence d'utilisation vous garantie les droits nécéssaires à l'exploitation des musiques dans le cadre de votre projet.</rdf:_1>
+      </rdf:Alt>
+    </dc:rights>
+    <dc:subject>
+      <rdf:Bag rdf:nodeID="N2501252f7b5b496aa77c89df9b1391c5">
+        <rdf:_2>écossaise</rdf:_2>
+        <rdf:_1>musique irlandaise</rdf:_1>
+        <rdf:_3>fête</rdf:_3>
+        <rdf:_4>musique folk</rdf:_4>
+      </rdf:Bag>
+    </dc:subject>
+    <xmpDM:composer>Hicham Chahidi</xmpDM:composer>
+    <xmp:MetadataDate>2017-02-20T17:18:25+01:00</xmp:MetadataDate>
+    <xmpRights:Marked>False</xmpRights:Marked>
+    <xmpMM:InstanceID>xmp.iid:277f7e51-6919-43e2-aabf-765ea66a2c4e</xmpMM:InstanceID>
+    <xmpMM:History>
+      <rdf:Seq rdf:nodeID="Nb038ea8103404229bdbf53fe64e6fe2c">
+        <rdf:_1>
+          <rdf:Description rdf:nodeID="N6c29118f3961493fb67823ec0056b73b">
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:softwareAgent>Adobe Bridge CC 2017 (Windows)</stEvt:softwareAgent>
+            <stEvt:when>2017-02-20T15:19:57+01:00</stEvt:when>
+            <stEvt:changed>/metadata</stEvt:changed>
+            <stEvt:instanceID>xmp.iid:1520114b-9bf8-c441-a8d8-801bb5cc6524</stEvt:instanceID>
+          </rdf:Description>
+        </rdf:_1>
+        <rdf:_2>
+          <rdf:Description rdf:nodeID="N5c313a1dbf0345dc9647413d7c8b059b">
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:instanceID>xmp.iid:277f7e51-6919-43e2-aabf-765ea66a2c4e</stEvt:instanceID>
+            <stEvt:changed>/metadata</stEvt:changed>
+            <stEvt:when>2017-02-20T17:18:25+01:00</stEvt:when>
+            <stEvt:softwareAgent>Adobe Bridge CC (Macintosh)</stEvt:softwareAgent>
+          </rdf:Description>
+        </rdf:_2>
+      </rdf:Seq>
+    </xmpMM:History>
+    <xmpMM:DocumentID>xmp.did:1520114b-9bf8-c441-a8d8-801bb5cc6524</xmpMM:DocumentID>
+    <xmpDM:artist>Hicham Chahidi</xmpDM:artist>
+    <xmpRights:WebStatement>http://www.musicscreen.be/musique-libre-de-droit-conditions-utilisation.html</xmpRights:WebStatement>
+    <dc:title>
+      <rdf:Alt rdf:nodeID="N30491eaf59024f06949b283813abd739">
+        <rdf:_1 xml:lang="x-default">Maria</rdf:_1>
+      </rdf:Alt>
+    </dc:title>
+    <xmp:CreatorTool>Lavf57.41.100</xmp:CreatorTool>
+    <dc:creator>
+      <rdf:Seq rdf:nodeID="Nfbee8c4593b74225828ebefedebd66da">
+        <rdf:_1>Hicham Chahidi</rdf:_1>
+      </rdf:Seq>
+    </dc:creator>
+    <xmpDM:genre>Ethnique</xmpDM:genre>
+    <xmpMM:OriginalDocumentID>xmp.did:1520114b-9bf8-c441-a8d8-801bb5cc6524</xmpMM:OriginalDocumentID>
+    <dc:description>
+      <rdf:Alt rdf:nodeID="N179f7f4813fd489580281f64f782621e">
+        <rdf:_1 xml:lang="x-default">Musique folk inspirée des musiques folkloriques du nord de l'Europe, de la musique Irlandaise et écossaise. Violons, altos, accordéon, tuba, contrebasse et batterie..</rdf:_1>
+      </rdf:Alt>
+    </dc:description>
+    <xmp:Rating>3</xmp:Rating>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///var/folders/gc/m1_d1wrj5pd2tkwsjzx4d0cc0000gn/T/tmpJnI6Sj">
+    <xmpDM:artist>Hicham Chahidi</xmpDM:artist>
+    <xmpRights:WebStatement>http://www.musicscreen.be/musique-libre-de-droit-conditions-utilisation.html</xmpRights:WebStatement>
+    <xmpMM:InstanceID>xmp.iid:ee9c5e52-be4e-45c2-9c1a-c9e1667d745f</xmpMM:InstanceID>
+    <xmp:Rating>2</xmp:Rating>
+    <dc:title>
+      <rdf:Alt rdf:nodeID="N87080703fc434306a1fefff8e3366e31">
+        <rdf:_1 xml:lang="x-default">Night in Moscow</rdf:_1>
+      </rdf:Alt>
+    </dc:title>
+    <xmpMM:OriginalDocumentID>xmp.did:f51a88ad-2c7a-d34a-863e-2bf69801fbd4</xmpMM:OriginalDocumentID>
+    <dc:subject>
+      <rdf:Bag rdf:nodeID="Nc7bdea2c328245178ce82545a4998a30">
+        <rdf:_3>slave</rdf:_3>
+        <rdf:_2>soviétique</rdf:_2>
+        <rdf:_1>musique russe</rdf:_1>
+      </rdf:Bag>
+    </dc:subject>
+    <dc:rights>
+      <rdf:Alt rdf:nodeID="N4713909414a9434681f2b9404fbd6c9e">
+        <rdf:_1 xml:lang="x-default">Les musiques téléchargeables sur le site www.musicscreen.be sont soumises à la loi sur le droit d'auteur. Elles sont la propriété du compositeur / producteur Hicham Chahidi, et leur utilisation doit faire l'objet d'un contrat de licence avant toute diffusion. Tous les droits sont réservés. Sauf autorisation, toute utilisation des Oeuvres autre que la consultation privée est interdite. L'achat d'une licence d'utilisation vous garantie les droits nécéssaires à l'exploitation des musiques dans le cadre de votre projet.</rdf:_1>
+      </rdf:Alt>
+    </dc:rights>
+    <xmpMM:History>
+      <rdf:Seq rdf:nodeID="N468ed59d2e4c471893e75b9f90f9c219">
+        <rdf:_1>
+          <rdf:Description rdf:nodeID="N14675ae8bc77467fb6af98975d6b733a">
+            <stEvt:instanceID>xmp.iid:f51a88ad-2c7a-d34a-863e-2bf69801fbd4</stEvt:instanceID>
+            <stEvt:softwareAgent>Adobe Bridge CC 2017 (Windows)</stEvt:softwareAgent>
+            <stEvt:when>2017-02-20T15:24:21+01:00</stEvt:when>
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:changed>/metadata</stEvt:changed>
+          </rdf:Description>
+        </rdf:_1>
+        <rdf:_2>
+          <rdf:Description rdf:nodeID="N330179f377844adbb027a5e2343fb289">
+            <stEvt:softwareAgent>Adobe Bridge CC (Macintosh)</stEvt:softwareAgent>
+            <stEvt:changed>/metadata</stEvt:changed>
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:when>2017-02-20T17:21:35+01:00</stEvt:when>
+            <stEvt:instanceID>xmp.iid:ee9c5e52-be4e-45c2-9c1a-c9e1667d745f</stEvt:instanceID>
+          </rdf:Description>
+        </rdf:_2>
+      </rdf:Seq>
+    </xmpMM:History>
+    <xmp:CreatorTool>Lavf57.41.100</xmp:CreatorTool>
+    <xmpDM:composer>Hicham Chahidi</xmpDM:composer>
+    <xmpDM:genre>Ethnique</xmpDM:genre>
+    <xmpRights:Marked>False</xmpRights:Marked>
+    <dc:description>
+      <rdf:Alt rdf:nodeID="N69372a01e4814d318088df4a37fe9726">
+        <rdf:_1 xml:lang="x-default">Musique traditionnelle russe avec domra, balalaïka (sorte de guitares russes), bayan (accordéon traditionnel) et des percussion</rdf:_1>
+      </rdf:Alt>
+    </dc:description>
+    <xmp:MetadataDate>2017-02-20T17:21:35+01:00</xmp:MetadataDate>
+    <xmpMM:DocumentID>xmp.did:f51a88ad-2c7a-d34a-863e-2bf69801fbd4</xmpMM:DocumentID>
+    <dc:creator>
+      <rdf:Seq rdf:nodeID="N0da1a9163abe41a1ad6b0fa6ba8ed02a">
+        <rdf:_1>Hicham Chahidi</rdf:_1>
+      </rdf:Seq>
+    </dc:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///var/folders/gc/m1_d1wrj5pd2tkwsjzx4d0cc0000gn/T/tmp2QH54D">
+    <xmpMM:InstanceID>xmp.iid:570c4300-b0c2-e647-8fee-47a84acf5ed4</xmpMM:InstanceID>
+    <dc:creator>
+      <rdf:Seq rdf:nodeID="N7d2dd336ccae4e8bab2fa6665919020a">
+        <rdf:_1>Hicham Chahidi</rdf:_1>
+      </rdf:Seq>
+    </dc:creator>
+    <xmpMM:History>
+      <rdf:Seq rdf:nodeID="Ndb370d1a77874fc4bb796dd9449d9d57">
+        <rdf:_1>
+          <rdf:Description rdf:nodeID="N1fb4641ca483456e860aadb069bad228">
+            <stEvt:changed>/metadata</stEvt:changed>
+            <stEvt:softwareAgent>Adobe Bridge CC 2017 (Windows)</stEvt:softwareAgent>
+            <stEvt:when>2017-02-20T12:57:57+01:00</stEvt:when>
+            <stEvt:instanceID>xmp.iid:570c4300-b0c2-e647-8fee-47a84acf5ed4</stEvt:instanceID>
+            <stEvt:action>saved</stEvt:action>
+          </rdf:Description>
+        </rdf:_1>
+      </rdf:Seq>
+    </xmpMM:History>
+    <xmp:MetadataDate>2017-02-20T12:57:57+01:00</xmp:MetadataDate>
+    <xmpMM:DocumentID>xmp.did:570c4300-b0c2-e647-8fee-47a84acf5ed4</xmpMM:DocumentID>
+    <xmpMM:OriginalDocumentID>xmp.did:570c4300-b0c2-e647-8fee-47a84acf5ed4</xmpMM:OriginalDocumentID>
+    <xmpRights:WebStatement>http://www.musicscreen.be/musique-libre-de-droit-conditions-utilisation.html</xmpRights:WebStatement>
+    <xmpRights:Marked>False</xmpRights:Marked>
+    <dc:title>
+      <rdf:Alt rdf:nodeID="N5c22eeba47c94e0597ec22b75caf1e79">
+        <rdf:_1 xml:lang="x-default">Ramaya</rdf:_1>
+      </rdf:Alt>
+    </dc:title>
+    <dc:subject>
+      <rdf:Bag rdf:nodeID="N7efec3c5d23847b4836bc3854732e0ab">
+        <rdf:_5>comique</rdf:_5>
+        <rdf:_3>pureté</rdf:_3>
+        <rdf:_6>burlesque</rdf:_6>
+        <rdf:_2>joie</rdf:_2>
+        <rdf:_7>gaieté</rdf:_7>
+        <rdf:_1>piano</rdf:_1>
+        <rdf:_4>enfant</rdf:_4>
+      </rdf:Bag>
+    </dc:subject>
+    <xmp:CreatorTool>Lavf57.41.100</xmp:CreatorTool>
+    <xmpDM:genre>Piano</xmpDM:genre>
+    <xmpDM:instrument>piano</xmpDM:instrument>
+    <xmpDM:logComment>Modifications possibles: Changement de tempo pour accélérer ou ralentir la musique. Désaccordage du piano. Réalisation d'une boucle ( Loop ). Changement de l'intensité de la réverbération: pour simuler un lieux plus grand ou plus petit. Des enregistrements de cette musique exécutés sur 3 pianos différents: Steinway, Bosendorfer et Yamaha. Changement de l'instrument pour une version électronique ou électrique. Application d'effets. (Les modifications sont des services payants, demandez un devis)</xmpDM:logComment>
+    <xmpDM:artist>Hicham Chahidi</xmpDM:artist>
+    <dc:description>
+      <rdf:Alt rdf:nodeID="N45b10cde882c49e2ae3eaa282f7b1430">
+        <rdf:_1 xml:lang="x-default">Musique libre de droit au piano. Musique gaie et joyeuse, un tempo rapide en 2 temps, convient pour exprimer la gaieté, la bonne humeur et même un certain côté comique et burlesque. Elle illustrera à merveille des scènes legères, humoristiques.
+</rdf:_1>
+      </rdf:Alt>
+    </dc:description>
+    <xmp:Rating>5</xmp:Rating>
+    <dc:rights>
+      <rdf:Alt rdf:nodeID="N41b35da4009a42a285a7cdd7f2db628c">
+        <rdf:_1 xml:lang="x-default">Les musiques téléchargeables sur le site www.musicscreen.be sont soumises à la loi sur le droit d'auteur. Elles sont la propriété du compositeur / producteur Hicham Chahidi, et leur utilisation doit faire l'objet d'un contrat de licence avant toute diffusion. Tous les droits sont réservés. Sauf autorisation, toute utilisation des Oeuvres autre que la consultation privée est interdite. L'achat d'une licence d'utilisation vous garantie les droits nécéssaires à l'exploitation des musiques dans le cadre de votre projet.</rdf:_1>
+      </rdf:Alt>
+    </dc:rights>
+    <xmpDM:composer>Hicham Chahidi</xmpDM:composer>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///var/folders/gc/m1_d1wrj5pd2tkwsjzx4d0cc0000gn/T/tmpwH1RG2">
+    <dc:rights>
+      <rdf:Alt rdf:nodeID="N5678068b564a4d939661f05f56ec1e72">
+        <rdf:_1 xml:lang="x-default">Les musiques téléchargeables sur le site www.musicscreen.be sont soumises à la loi sur le droit d'auteur. Elles sont la propriété du compositeur / producteur Hicham Chahidi, et leur utilisation doit faire l'objet d'un contrat de licence avant toute diffusion. Tous les droits sont réservés. Sauf autorisation, toute utilisation des Oeuvres autre que la consultation privée est interdite. L'achat d'une licence d'utilisation vous garantie les droits nécéssaires à l'exploitation des musiques dans le cadre de votre projet.</rdf:_1>
+      </rdf:Alt>
+    </dc:rights>
+    <xmpMM:InstanceID>xmp.iid:45742915-48da-9e4f-b305-9c4bfd3e98f6</xmpMM:InstanceID>
+    <dc:description>
+      <rdf:Alt rdf:nodeID="N65edc024f5b4488e874647d0d2bc688e">
+        <rdf:_1 xml:lang="x-default">Musique libre de droit au piano solo. Morceau dégageant une atmosphère positive, sur un tempo rythmé, et donnant une impression de joie, de simplicité et de bonheur. Il illustrera à merveille des scènes avec des enfants, l'innocence, la nature, la légèreté et la joie de vivre.
+</rdf:_1>
+      </rdf:Alt>
+    </dc:description>
+    <dc:creator>
+      <rdf:Seq rdf:nodeID="Na9bcf8bea7bd4122b410dbeb4793d03e">
+        <rdf:_1>Hicham Chahidi</rdf:_1>
+      </rdf:Seq>
+    </dc:creator>
+    <xmp:CreatorTool>Lavf57.41.100</xmp:CreatorTool>
+    <xmpDM:logComment>Changement de tempo pour accélérer ou ralentir la musique. Réalisation d'une boucle ( Loop ). Changement de l'intensité de la reverbération: pour simuler un lieux plus grand ou plus petit. Des enregistrements de cette musique éxecutée sur 3 pianos différents: Steinway, Bosendorfer et Yamaha. Changement de l'instrument pour une version électronique ou électrique. Application d'effets. (Les modifications sont des services payants, demandez un devis) </xmpDM:logComment>
+    <xmp:Rating>3</xmp:Rating>
+    <xmpDM:composer>Hicham Chahidi</xmpDM:composer>
+    <xmpDM:instrument>piano</xmpDM:instrument>
+    <dc:subject>
+      <rdf:Bag rdf:nodeID="N6c13a7d1a09a4e789de1b1f5788a9779">
+        <rdf:_4>joie</rdf:_4>
+        <rdf:_13>positif</rdf:_13>
+        <rdf:_5>bonheur</rdf:_5>
+        <rdf:_7>heureux</rdf:_7>
+        <rdf:_1>piano</rdf:_1>
+        <rdf:_11>jeu</rdf:_11>
+        <rdf:_12>légèreté</rdf:_12>
+        <rdf:_10>jeux</rdf:_10>
+        <rdf:_2>enfance</rdf:_2>
+        <rdf:_3>enfant</rdf:_3>
+        <rdf:_6>simplicité</rdf:_6>
+        <rdf:_9>enfantin</rdf:_9>
+        <rdf:_8>pureté</rdf:_8>
+      </rdf:Bag>
+    </dc:subject>
+    <xmpRights:Marked>False</xmpRights:Marked>
+    <dc:title>
+      <rdf:Alt rdf:nodeID="Nb5fc022fa1d849daad95e9588a9b5f77">
+        <rdf:_1 xml:lang="x-default">Miuzz</rdf:_1>
+      </rdf:Alt>
+    </dc:title>
+    <xmpDM:artist>Hicham Chahidi</xmpDM:artist>
+    <xmpMM:OriginalDocumentID>xmp.did:ec3d7f33-7a58-0245-9db7-26e2d41145cb</xmpMM:OriginalDocumentID>
+    <xmp:MetadataDate>2017-02-20T12:58:20+01:00</xmp:MetadataDate>
+    <xmpMM:DocumentID>xmp.did:ec3d7f33-7a58-0245-9db7-26e2d41145cb</xmpMM:DocumentID>
+    <xmpMM:History>
+      <rdf:Seq rdf:nodeID="Nde94247594b54f9eb5f34a8d3be4b96f">
+        <rdf:_1>
+          <rdf:Description rdf:nodeID="Na1e0528852a54cb2813135507f61a07a">
+            <stEvt:when>2017-02-20T12:54:37+01:00</stEvt:when>
+            <stEvt:softwareAgent>Adobe Bridge CC 2017 (Windows)</stEvt:softwareAgent>
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:instanceID>xmp.iid:ec3d7f33-7a58-0245-9db7-26e2d41145cb</stEvt:instanceID>
+            <stEvt:changed>/metadata</stEvt:changed>
+          </rdf:Description>
+        </rdf:_1>
+        <rdf:_2>
+          <rdf:Description rdf:nodeID="N26582844aa9943b59b109689e47b8827">
+            <stEvt:softwareAgent>Adobe Bridge CC 2017 (Windows)</stEvt:softwareAgent>
+            <stEvt:action>saved</stEvt:action>
+            <stEvt:when>2017-02-20T12:58:20+01:00</stEvt:when>
+            <stEvt:changed>/metadata</stEvt:changed>
+            <stEvt:instanceID>xmp.iid:45742915-48da-9e4f-b305-9c4bfd3e98f6</stEvt:instanceID>
+          </rdf:Description>
+        </rdf:_2>
+      </rdf:Seq>
+    </xmpMM:History>
+    <xmpRights:WebStatement>http://www.musicscreen.be/musique-libre-de-droit-conditions-utilisation.html</xmpRights:WebStatement>
+    <xmpDM:genre>Piano</xmpDM:genre>
+  </rdf:Description>
+</rdf:RDF>
