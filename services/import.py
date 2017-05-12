@@ -7,6 +7,7 @@ import rdflib
 
 PATH = "../FichiersMusicaux/"
 EXTENSION = ".wav"
+g = rdflib.Graph()
 
 
 def read_xmp_metadata(file):
@@ -36,7 +37,6 @@ def import_graph(rdf):
     temp = tempfile.NamedTemporaryFile()
     temp.write(rdf)
     temp.seek(0)
-    g = rdflib.Graph()
     g.load(temp.name)
     for s, p, o in g:
         print s, p, o
@@ -44,3 +44,4 @@ def import_graph(rdf):
 
 
 list_all_files()
+print g.serialize(format='pretty-xml')
