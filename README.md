@@ -1,4 +1,4 @@
-# Projet Universitaire
+# Projet Universitaire - Streaming, RDF et SPARQL
 
 Créer un service permettant d'écouter en diffusion progressive (streaming) des fichiers musicaux. Le client pourra choisir ces morceaux grâce à moteur de recherche qui indexera les métadonnées contenues dans les fichiers musicaux.
 
