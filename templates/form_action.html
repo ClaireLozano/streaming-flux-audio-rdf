@@ -1,7 +1,21 @@
  <html>
     <head>
         <title>Réponse</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.3/jquery.min.js"></script>
         <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+        <script type="text/javascript">
+            function startsong(songtitle){
+                console.log("start song" + songtitle)
+                $.ajax({
+                    type: "POST",
+                    url: "/start_song",
+                    data: 'song='+songtitle,
+                    success: function (data) {
+                        console.log(data);
+                  }
+                });
+            }
+         </script>
     </head>
     <body>
         <div id="container">
@@ -13,6 +27,7 @@
                 {% if results %}
                     {% for titre in results %}
                         <h2>{{ titre }}</h2>
+                        <a href="#" onclick="return startsong('{{ titre }}');">Lancer la lecture</a>
                         {% for element in results[titre] %}
                             <p>{{ element[1] }}: {{ element[0] }}</p>
                         {% endfor %}
