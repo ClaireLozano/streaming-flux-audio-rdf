@@ -5,6 +5,12 @@ import rdflib
 from rdflib.plugins.sparql import prepareQuery
 from rdflib import Namespace
 
+# encoding=utf8
+import sys
+
+reload(sys)
+sys.setdefaultencoding('utf8')
+
 
 class Services:
     def __init__(self):
