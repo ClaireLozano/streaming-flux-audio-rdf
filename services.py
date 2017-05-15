@@ -57,9 +57,14 @@ class Services:
         return (text.split("/")[-1]).split("_", 1)[0]
 
     def request_sparql(self, auteur, genre):
-        q = prepareQuery(
-            'SELECT DISTINCT * WHERE { ?s xmpDM:artist "' + auteur + '" . ?s xmpDM:genre "' + genre + '". ?s ?predicate ?object . }',
-            initNs={"xmpDM": self.name_space_artist})
+        if not auteur:
+            q = prepareQuery(
+                'SELECT DISTINCT * WHERE { ?s xmpDM:genre "' + genre + '". ?s ?predicate ?object . }',
+                initNs={"xmpDM": self.name_space_artist})
+        else:
+            q = prepareQuery(
+                'SELECT DISTINCT * WHERE { ?s xmpDM:artist "' + auteur + '" . ?s xmpDM:genre "' + genre + '". ?s ?predicate ?object . }',
+                initNs={"xmpDM": self.name_space_artist})
         dico = {}
         for b, c, d in self.g.query(q):
             # Show result

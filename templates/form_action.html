@@ -10,13 +10,17 @@
             </div>
             <div id="content">
                 <br>
-                {% for titre in results %}
-                    <h2>{{ titre }}</h2>
-                    {% for element in results[titre] %}
-                        <p>{{ element[1] }}: {{ element[0] }}</p>
+                {% if results %}
+                    {% for titre in results %}
+                        <h2>{{ titre }}</h2>
+                        {% for element in results[titre] %}
+                            <p>{{ element[1] }}: {{ element[0] }}</p>
+                        {% endfor %}
+                        <hr>
                     {% endfor %}
-                    <hr>
-                {% endfor %}
+                {% else %}
+                    <h2>There is no results for <strong>{{author}}</strong> and <strong>{{genre}}</strong></h2>
+                {% endif %}
             </div>
         </div>
     </body>
