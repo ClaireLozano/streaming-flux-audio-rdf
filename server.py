@@ -1,3 +1,4 @@
+import sys
 from flask import Flask
 from flask import render_template
 from flask import request
@@ -10,8 +11,13 @@ app = Flask(__name__)
 # Initialisation du graphe et peuplement
 service = Services()
 
-RACINE = "/Users/thomas/Documents/Master/Digital\ Content\ Broadcasting/untitled"
 
+if (len(sys.argv) < 1):
+    print("Not enough arguments! \n *** Usage: {0} <url_racine_project> ***\n".format(sys.argv[0]))
+    sys.exit()
+
+RACINE = sys.argv[1]
+print RACINE
 
 @app.route("/start_song", methods=['POST'])
 def start_wav_function():
