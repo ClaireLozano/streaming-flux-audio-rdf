@@ -96,7 +96,7 @@ class Services:
         return resultList
 
     # Effectuer une requête permettant de récupérer les genres musicaux
-    def request_genre_sparql(self):
+    def request_gender_sparql(self):
         q = prepareQuery(
             'SELECT DISTINCT ?y WHERE { ?x xmpDM:genre ?y . }',
             initNs={"xmpDM": self.name_space_artist})

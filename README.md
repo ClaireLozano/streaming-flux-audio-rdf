@@ -18,7 +18,7 @@ sudo pip install rdflib
 
 ```
 cd streaming/
-python server_web.py
+python serveur_web.py
 ```
 
 puis dans un autre terminal lancer :

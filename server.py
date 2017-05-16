@@ -35,7 +35,7 @@ def start_wav_function():
 @app.route('/')
 def form():
     # Création de la vue
-    return render_template('form_submit.html', gender=service.request_gender_sparql())
+    return render_template('form_submit.html', genders=service.request_gender_sparql())
 
 
 # Route /result
