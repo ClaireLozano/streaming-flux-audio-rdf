@@ -56,14 +56,14 @@ class Services:
     def simplify_name_title(self, text):
         return (text.split("/")[-1]).split("_", 1)[0]
 
-    def request_sparql(self, auteur, genre):
+    def request_sparql(self, auteur, gender):
         if not auteur:
             q = prepareQuery(
-                'SELECT DISTINCT * WHERE { ?s xmpDM:genre "' + genre + '". ?s ?predicate ?object . }',
+                'SELECT DISTINCT * WHERE { ?s xmpDM:genre "' + gender + '". ?s ?predicate ?object . }',
                 initNs={"xmpDM": self.name_space_artist})
         else:
             q = prepareQuery(
-                'SELECT DISTINCT * WHERE { ?s xmpDM:artist "' + auteur + '" . ?s xmpDM:genre "' + genre + '". ?s ?predicate ?object . }',
+                'SELECT DISTINCT * WHERE { ?s xmpDM:artist "' + auteur + '" . ?s xmpDM:genre "' + gender + '". ?s ?predicate ?object . }',
                 initNs={"xmpDM": self.name_space_artist})
         dico = {}
         for b, c, d in self.g.query(q):
